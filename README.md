@@ -25,19 +25,6 @@ Este projeto tem como objetivo analisar o desempenho de quatro lojas do grupo Al
 
 ---
 
-## Exemplos de Gráficos e Insights
-
-### 1. Faturamento Total por Loja
-![Exemplo de gráfico de barras](docs/exemplo_faturamento.png)
-
-### 2. Faturamento Mensal (Sazonalidade)
-![Exemplo de gráfico de linha](docs/exemplo_sazonalidade.png)
-
-### 3. Distribuição das Avaliações dos Clientes
-![Exemplo de boxplot](docs/exemplo_boxplot.png)
-
-### 4. Participação das Categorias mais Vendidas
-![Exemplo de gráfico de pizza](docs/exemplo_pizza.png)
 
 **Principais insights obtidos:**
 - Identificação da loja com desempenho mais fraco considerando faturamento, avaliações, frete e sazonalidade.
